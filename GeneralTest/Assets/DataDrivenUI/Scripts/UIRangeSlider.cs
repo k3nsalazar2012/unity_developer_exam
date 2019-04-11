@@ -3,13 +3,16 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class UIRangeSlider : MonoBehaviour
+namespace CanvasData
 {
-    [SerializeField]
-    private Text valueText;
-
-    public void ValueCheck(Slider slider)
+    public class UIRangeSlider : MonoBehaviour
     {
-        valueText.text = (slider.value).ToString();
+        [SerializeField]
+        private Text valueText;
+
+        public void ValueCheck(Slider slider)
+        {
+            valueText.text = (slider.value).ToString();
+        }
     }
 }
