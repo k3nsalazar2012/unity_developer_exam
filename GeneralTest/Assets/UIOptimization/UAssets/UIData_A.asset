@@ -1,0 +1,316 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7356d547aca75774687873ae06a9d2d5, type: 3}
+  m_Name: UIData_A
+  m_EditorClassIdentifier: 
+  _Items:
+  - Thunder
+  - Clouds
+  - Lightning
+  - Electricity
+  - Apple
+  - Apple
+  - Apple
+  - Apple
+  - Apple
+  - Apple
+  - Apple
+  - Apple
+  - Apple
+  - Apple
+  - Apple
+  - Apple
+  - Apple
+  - Apple
+  - Apple
+  - Apple
+  - Apple
+  - Apple
+  - Apple
+  - Apple
+  - Apple
+  - Apple
+  - Apple
+  - Apple
+  - Apple
+  - Apple
+  - Apple
+  - Apple
+  - Apple
+  - Apple
+  - Apple
+  - Apple
+  - Apple
+  - Apple
+  - Apple
+  - Apple
+  - Apple
+  - Apple
+  - Apple
+  - Apple
+  - Apple
+  - Apple
+  - Apple
+  - Apple
+  - Apple
+  - Apple
+  _RangeList:
+  - Min: 0
+    Max: 10
+    Val: 5
+  - Min: 5
+    Max: 15
+    Val: 7
+  - Min: 10
+    Max: 20
+    Val: 17
+  - Min: 0
+    Max: 5
+    Val: 4
+  - Min: 0
+    Max: 5
+    Val: 1
+  - Min: 0
+    Max: 5
+    Val: 1
+  - Min: 0
+    Max: 5
+    Val: 1
+  - Min: 0
+    Max: 5
+    Val: 1
+  - Min: 0
+    Max: 5
+    Val: 1
+  - Min: 0
+    Max: 5
+    Val: 1
+  - Min: 0
+    Max: 5
+    Val: 1
+  - Min: 0
+    Max: 5
+    Val: 1
+  - Min: 0
+    Max: 5
+    Val: 1
+  - Min: 0
+    Max: 5
+    Val: 1
+  - Min: 0
+    Max: 5
+    Val: 1
+  - Min: 0
+    Max: 5
+    Val: 1
+  - Min: 0
+    Max: 5
+    Val: 1
+  - Min: 0
+    Max: 5
+    Val: 1
+  - Min: 0
+    Max: 5
+    Val: 1
+  - Min: 0
+    Max: 5
+    Val: 1
+  - Min: 0
+    Max: 5
+    Val: 1
+  - Min: 0
+    Max: 5
+    Val: 1
+  - Min: 0
+    Max: 5
+    Val: 1
+  - Min: 0
+    Max: 5
+    Val: 1
+  - Min: 0
+    Max: 5
+    Val: 1
+  - Min: 0
+    Max: 5
+    Val: 1
+  - Min: 0
+    Max: 5
+    Val: 1
+  - Min: 0
+    Max: 5
+    Val: 1
+  - Min: 0
+    Max: 5
+    Val: 1
+  - Min: 0
+    Max: 5
+    Val: 1
+  - Min: 0
+    Max: 5
+    Val: 1
+  - Min: 0
+    Max: 5
+    Val: 1
+  - Min: 0
+    Max: 5
+    Val: 1
+  - Min: 0
+    Max: 5
+    Val: 1
+  - Min: 0
+    Max: 5
+    Val: 1
+  - Min: 0
+    Max: 5
+    Val: 1
+  - Min: 0
+    Max: 5
+    Val: 1
+  - Min: 0
+    Max: 5
+    Val: 1
+  - Min: 0
+    Max: 5
+    Val: 1
+  - Min: 0
+    Max: 5
+    Val: 1
+  - Min: 0
+    Max: 5
+    Val: 1
+  - Min: 0
+    Max: 5
+    Val: 1
+  - Min: 0
+    Max: 5
+    Val: 1
+  - Min: 0
+    Max: 5
+    Val: 1
+  - Min: 0
+    Max: 5
+    Val: 1
+  - Min: 0
+    Max: 5
+    Val: 1
+  - Min: 0
+    Max: 5
+    Val: 1
+  - Min: 0
+    Max: 5
+    Val: 1
+  - Min: 0
+    Max: 5
+    Val: 1
+  - Min: 0
+    Max: 5
+    Val: 1
+  _Colors:
+  - Color: {r: 0.50689656, g: 0.50689656, b: 0.50689656, a: 1}
+    Letter: A
+  - Color: {r: 0.637931, g: 0, b: 0, a: 1}
+    Letter: B
+  - Color: {r: 0, g: 0.62413794, b: 0, a: 1}
+    Letter: C
+  - Color: {r: 0, g: 1, b: 0.7896552, a: 1}
+    Letter: D
+  - Color: {r: 0, g: 0, b: 1, a: 1}
+    Letter: E
+  - Color: {r: 0, g: 0, b: 1, a: 1}
+    Letter: E
+  - Color: {r: 0, g: 0, b: 1, a: 1}
+    Letter: E
+  - Color: {r: 0, g: 0, b: 1, a: 1}
+    Letter: E
+  - Color: {r: 0, g: 0, b: 1, a: 1}
+    Letter: E
+  - Color: {r: 0, g: 0, b: 1, a: 1}
+    Letter: E
+  - Color: {r: 0, g: 0, b: 1, a: 1}
+    Letter: E
+  - Color: {r: 0, g: 0, b: 1, a: 1}
+    Letter: E
+  - Color: {r: 0, g: 0, b: 1, a: 1}
+    Letter: E
+  - Color: {r: 0, g: 0, b: 1, a: 1}
+    Letter: E
+  - Color: {r: 0, g: 0, b: 1, a: 1}
+    Letter: E
+  - Color: {r: 0, g: 0, b: 1, a: 1}
+    Letter: E
+  - Color: {r: 0, g: 0, b: 1, a: 1}
+    Letter: E
+  - Color: {r: 0, g: 0, b: 1, a: 1}
+    Letter: E
+  - Color: {r: 0, g: 0, b: 1, a: 1}
+    Letter: E
+  - Color: {r: 0, g: 0, b: 1, a: 1}
+    Letter: E
+  - Color: {r: 0, g: 0, b: 1, a: 1}
+    Letter: E
+  - Color: {r: 0, g: 0, b: 1, a: 1}
+    Letter: E
+  - Color: {r: 0, g: 0, b: 1, a: 1}
+    Letter: E
+  - Color: {r: 0, g: 0, b: 1, a: 1}
+    Letter: E
+  - Color: {r: 0, g: 0, b: 1, a: 1}
+    Letter: E
+  - Color: {r: 0, g: 0, b: 1, a: 1}
+    Letter: E
+  - Color: {r: 0, g: 0, b: 1, a: 1}
+    Letter: E
+  - Color: {r: 0, g: 0, b: 1, a: 1}
+    Letter: E
+  - Color: {r: 0, g: 0, b: 1, a: 1}
+    Letter: E
+  - Color: {r: 0, g: 0, b: 1, a: 1}
+    Letter: E
+  - Color: {r: 0, g: 0, b: 1, a: 1}
+    Letter: E
+  - Color: {r: 0, g: 0, b: 1, a: 1}
+    Letter: E
+  - Color: {r: 0, g: 0, b: 1, a: 1}
+    Letter: E
+  - Color: {r: 0, g: 0, b: 1, a: 1}
+    Letter: E
+  - Color: {r: 0, g: 0, b: 1, a: 1}
+    Letter: E
+  - Color: {r: 0, g: 0, b: 1, a: 1}
+    Letter: E
+  - Color: {r: 0, g: 0, b: 1, a: 1}
+    Letter: E
+  - Color: {r: 0, g: 0, b: 1, a: 1}
+    Letter: E
+  - Color: {r: 0, g: 0, b: 1, a: 1}
+    Letter: E
+  - Color: {r: 0, g: 0, b: 1, a: 1}
+    Letter: E
+  - Color: {r: 0, g: 0, b: 1, a: 1}
+    Letter: E
+  - Color: {r: 0, g: 0, b: 1, a: 1}
+    Letter: E
+  - Color: {r: 0, g: 0, b: 1, a: 1}
+    Letter: E
+  - Color: {r: 0, g: 0, b: 1, a: 1}
+    Letter: E
+  - Color: {r: 0, g: 0, b: 1, a: 1}
+    Letter: E
+  - Color: {r: 0, g: 0, b: 1, a: 1}
+    Letter: E
+  - Color: {r: 0, g: 0, b: 1, a: 1}
+    Letter: E
+  - Color: {r: 0, g: 0, b: 1, a: 1}
+    Letter: E
+  - Color: {r: 0, g: 0, b: 1, a: 1}
+    Letter: E
+  - Color: {r: 0, g: 0, b: 1, a: 1}
+    Letter: E
