@@ -11,7 +11,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/DataDrivenUI/Scenes/UI.unity
     guid: cacffb8cf48ed8e41b445af1b3ade237
-  - enabled: 1
+  - enabled: 0
     path: Assets/UIOptimization/Scenes/Optimization.unity
     guid: 6c13de54ff9f7f549ba5bddd09d19b0b
+  - enabled: 1
+    path: Assets/Character/Scenes/Character Controller.unity
+    guid: 79f6198b7ae6ac24ebbde6edb1d3b194
   m_configObjects: {}
